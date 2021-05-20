@@ -8,6 +8,6 @@ The algorithm first trains using the images provided to it and records the encod
 
 ![result_webcam](https://user-images.githubusercontent.com/63535003/118929976-cfd97280-b962-11eb-9f60-42c44a0f33b7.png)
 
-## Name and Time are saved automatically to an excel sheet
+## Name and Time are saved automatically live in an excel sheet
 
 ![result_excel](https://user-images.githubusercontent.com/63535003/118928029-4b85f000-b960-11eb-8760-6bb93336f053.png)
