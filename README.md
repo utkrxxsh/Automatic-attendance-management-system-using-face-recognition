@@ -1,3 +1,4 @@
+
 # Automatic-attendance-management-system-using-face-recognition
 Attendance management system using OpenCV and python . The attendance system uses webcam to record the attendance of students in a classroom with some time interval in a day.  All the entries are automatically saved live in a excel sheet .
 
@@ -5,7 +6,7 @@ The algorithm first trains using the images provided to it and records the encod
 
 ## Scanning the image of the person whose attendance is to be marked using webcam
 
-![result_webcam](https://user-images.githubusercontent.com/63535003/118928018-46c13c00-b960-11eb-9408-f615d3a64e35.png)
+![result_webcam](https://user-images.githubusercontent.com/63535003/118929976-cfd97280-b962-11eb-9f60-42c44a0f33b7.png)
 
 ## Name and Time are saved automatically to an excel sheet
 
